@@ -1,5 +1,7 @@
 # n8n-nodes-perplexity-ai
 
+## IN DEVELOPMENT = NO WORKING YET!
+
 This is an n8n community node. It lets you use _n8n-nodes-perplexity-ai_ in your n8n workflows.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
