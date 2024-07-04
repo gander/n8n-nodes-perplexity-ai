@@ -1,5 +1,5 @@
 {
-  "name": "@gander/n8n-nodes-perplexity-ai",
+  "name": "n8n-nodes-perplexity-ai",
   "version": "0.1.0",
   "description": "Perplexity AI nodes for n8n",
   "keywords": [
